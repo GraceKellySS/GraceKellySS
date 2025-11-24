@@ -56,3 +56,6 @@ Entre as principais competências destacam-se:
 
 > **Busco colaborar** com iniciativas que unam saúde, tecnologia e gestão — seja na criação de produtos digitais, na melhoria de processos ou no desenvolvimento de sistemas.  
 > Se você está trabalhando em algo nessa área, entre em contato!
+
+<div align="left" style="display:flex; justify-content:left; gap:10px;">
+  <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GraceKellySS&langs_count=4&layout=compact&theme=tokyonight&card_width=300" alt="Top languages" /> </div>
